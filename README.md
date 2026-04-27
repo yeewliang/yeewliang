@@ -55,4 +55,4 @@ Currently shipping LLM/RAG workflows and full-stack data products at **Infineon 
 
 ---
 
-<sub>When I'm not shipping code: OpenRA / Command & Conquer, travel, and convincing myself the homelab needs *just one more* upgrade.</sub>
+<sub>When I'm not shipping code: reading, OpenRA / Command & Conquer, travel, and convincing myself the home setup needs *just one more* upgrade.</sub>
