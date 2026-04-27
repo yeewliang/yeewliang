@@ -1,4 +1,4 @@
-# Hi, I'm Yee Wei Liang 👋
+# Hi, I'm Wei Liang 👋
 
 **Full-Stack Data Scientist** based in Singapore 🇸🇬. I build end-to-end ML systems — from data pipelines and model training to FastAPI backends and the React UIs people actually click on.
 
