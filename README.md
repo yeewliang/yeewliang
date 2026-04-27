@@ -4,7 +4,7 @@
 
 Currently shipping LLM/RAG workflows and full-stack data products at **Infineon Technologies**. Over a decade of experience spanning industrial automation, port operations, and semiconductor manufacturing.
 
-🏆 **GitHub Copilot Ambassador** &nbsp;·&nbsp; 🎓 **MSc Intelligent Systems**
+🏆 **GitHub Copilot Ambassador** &nbsp;·&nbsp; 🎓 **MTech Intelligent Systems**
 
 ---
 
