@@ -33,7 +33,7 @@ Currently shipping LLM/RAG workflows and full-stack data products at **Infineon 
 
 ## 🚀 What I'm Working On
 
-- 🌐 **[weiliangyee.dev](https://weiliangyee.dev)** — Personal site, hosted on my own NAS because it should be.
+- 🌐 **[weiliangyee.dev](https://weiliangyee.dev)** — Personal site, hosted on my home NAS.
 
 ---
 
