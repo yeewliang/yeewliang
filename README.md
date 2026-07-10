@@ -2,7 +2,7 @@
 
 **Full-Stack Data Scientist** based in Singapore 🇸🇬. I build end-to-end ML systems — from data pipelines and model training to FastAPI backends and the React UIs people actually click on.
 
-Currently shipping LLM/RAG workflows and full-stack data products at **Infineon Technologies**. Over a decade of experience spanning industrial automation, port operations, and semiconductor manufacturing.
+Over a decade of experience spanning industrial automation, port operations, semiconductor manufacturing and insurance/wealth planning sector.
 
 🏆 **GitHub Copilot Ambassador** &nbsp;·&nbsp; 🎓 **MTech Intelligent Systems**
 
