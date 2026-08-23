@@ -4,7 +4,7 @@
 
 Over a decade of experience spanning industrial automation, port operations, semiconductor manufacturing and insurance/wealth planning sector.
 
-🏆 **GitHub Copilot Ambassador** &nbsp;·&nbsp; 🎓 **MTech Intelligent Systems**
+🎓 **MTech Intelligent Systems**
 
 ---
 
