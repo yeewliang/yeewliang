@@ -55,4 +55,4 @@ Over a decade of experience spanning industrial automation, port operations, sem
 
 ---
 
-<sub>When I'm not shipping code: reading, OpenRA / Command & Conquer, travel, and convincing myself the home setup needs *just one more* upgrade.</sub>
+<sub>When I'm not shipping code: reading, photography, travel and exploring smart home YT channels.</sub>
