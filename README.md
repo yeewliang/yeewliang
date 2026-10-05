@@ -42,7 +42,7 @@ Over a decade of experience spanning industrial automation, port operations, sem
 - End-to-end ML delivery: data ingestion → modeling → API → frontend
 - Production LLM/RAG pipelines that hold up under real user load
 - Cutting time-to-market on data products (recent benchmark: ~50% reduction)
-- Genuinely full-stack — comfortable from SQL all the way up to React state management
+- Full-stack developer — comfortable from SQL all the way up to React state management
 
 ---
 
